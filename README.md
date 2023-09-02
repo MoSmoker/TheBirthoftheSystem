@@ -1,6 +1,5 @@
 # INFO
-**A Repository with all my previous tasks in phase_1** **---** 
-> ***Take a look*** 
+**A Repository with all my previous tasks in phase_1** **---** ***Take a look*** 
 
 ### 1. HelloGRU
 ```
